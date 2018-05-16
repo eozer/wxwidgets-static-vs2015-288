@@ -1,0 +1,1 @@
+# wxwidgets-static-vs2015-288
